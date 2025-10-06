@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/tokya/anaconda3/envs/kaggle/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "terminal.integrated.env.windows": {
+      "CONDA_DEFAULT_ENV": "kaggle"
+    },
+    "python.condaPath": "C:/Users/tokya/anaconda3/Scripts/conda.exe",
+    "python.terminal.executeInFileDir": false
+  }
